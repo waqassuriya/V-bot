@@ -1,4 +1,4 @@
-# pakwheels
+# v-bot
 
 ## Project setup
 ```
